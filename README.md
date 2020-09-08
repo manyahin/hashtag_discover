@@ -1,5 +1,9 @@
 # reblaza-test
 
+Project builded with Vue CLI.
+For design is using Bulma with Buefly abstraction.
+For data is using Twitter API v2.
+
 ## Project setup
 ```
 npm install
