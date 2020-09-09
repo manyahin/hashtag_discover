@@ -2,9 +2,14 @@
 
 Project builded with Vue CLI.
 For design is using Bulma with Buefly abstraction.
-For data is using Twitter API v2.
+For data is using ~~Twitter API v2~~ Imgur API.
+
+Time: xxxx|xx|xxxx|xx - total: 6h
 
 ## Project setup
+
+copy `/src/config.example.js` to `/src/config.js` and change it
+
 ```
 npm install
 ```
